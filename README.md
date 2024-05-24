@@ -1,5 +1,7 @@
-# Tricky68k
+# Virtual68k
 ### [Download Here!](https://github.com/shysaur/Tricky68k/releases)
+
+NOTE: This is currently just an unmodified fork of Tricky68k!
 
 Tricky68k is a Motorola 68000 simulator for macOS, based on Volker  
 Barthelmann's [VASM](http://sun.hasenbraten.de/vasm/) assembler, the 
